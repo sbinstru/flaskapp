@@ -5,4 +5,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def counter():
-    return 'customer login 0'
+    return 'customers login 0'
